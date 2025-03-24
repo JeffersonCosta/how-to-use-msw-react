@@ -37,4 +37,4 @@ O projeto estará disponível em: `http://localhost:5173`
 ### 1. Rodar os testes unitários
 ```sh
 npm run test
-``
+```
